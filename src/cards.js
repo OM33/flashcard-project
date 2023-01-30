@@ -1,0 +1,117 @@
+//Setup vars
+export const cards = [
+  {
+    id: 1,
+    img: 'https://img.freepik.com/vector-premium/dibujos-animados-cuerpo-hombre-joven_18591-43995.jpg',
+    spanish: 'El Cuerpo',
+    english: 'The Body',
+  },
+  {
+    id: 2,
+    img: 'https://img.freepik.com/vector-gratis/modelo-humano-rostro-realista-3d_1441-2189.jpg',
+    spanish: 'La Cabeza',
+    english: 'The Head',
+  },
+  {
+    id: 3,
+    img: 'https://img.freepik.com/foto-gratis/primer-plano-cuello-mujer-piel-perfecta_1098-4023.jpg',
+    spanish: 'El cuello',
+    english: 'The neck',
+  },
+  {
+    id: 4,
+    img: 'https://img.freepik.com/vector-gratis/brawny-brazo-caucasico_1284-13546.jpg',
+    spanish: 'El brazo',
+    english: 'The arm ',
+  },
+  {
+    id: 5,
+    img: 'https://img.freepik.com/foto-gratis/mano-dedo-difusion_1301-2871.jpg',
+    spanish: 'La mano',
+    english: 'The hand',
+  },
+  {
+    id: 6,
+    img: 'https://img.freepik.com/foto-gratis/primer-plano-mano-apuntando-arriba_23-2147795486.jpg',
+    spanish: 'El dedo',
+    english: 'The finger',
+  },
+  {
+    id: 7,
+    img: 'https://img.freepik.com/foto-gratis/mujer-que-sufre-dolor-barriga_1262-19094.jpg',
+    spanish: 'La barriga / El vientre',
+    english: 'The belly',
+  },
+  {
+    id: 8,
+    img: 'https://img.freepik.com/foto-gratis/piernas-largas-bonitas-mujer-aisladas-pared-blanca_231208-3855.jpg',
+    spanish: 'La pierna',
+    english: 'The leg',
+  },
+  {
+    id: 9,
+    img: 'https://img.freepik.com/foto-gratis/hermosa-hembra-pura-bien-cuidada-pie-talon-levantado-arriba-aislado_186202-742.jpg',
+    spanish: 'El pie / los pies',
+    english: 'The foot / The feet',
+  },
+  {
+    id: 11,
+    img: 'https://img.freepik.com/foto-gratis/rostro-femenino-arrugas-frente_186202-466.jpg',
+    spanish: 'La frente',
+    english: 'The Forehead',
+  },
+  {
+    id: 12,
+    img: 'https://img.freepik.com/foto-gratis/hermosa-foto-primer-plano-macro-ojos-profundos-humano-femenino_181624-3067.jpg',
+    spanish: 'El Ojo',
+    english: 'The Eye',
+  },
+  {
+    id: 13,
+    img: 'https://img.freepik.com/foto-gratis/oreja-curiosidad-entrometida-joven-interesante_1127-2623.jpg',
+    spanish: 'La oreja / el oido',
+    english: 'The ear',
+  },
+  {
+    id: 14,
+    img: 'https://img.freepik.com/vector-gratis/nariz-humana-aislada_1308-15914.jpg',
+    spanish: 'La nariz',
+    english: 'The nose',
+  },
+  {
+    id: 15,
+    img: 'https://img.freepik.com/foto-gratis/primer-plano-sonrisa-perfecta_1149-1021.jpg',
+    spanish: 'La boca',
+    english: 'The mouth',
+  },
+  {
+    id: 16,
+    img: 'https://img.freepik.com/foto-gratis/mujer-joven-broma-fresca-cerca_1194-2340.jpg',
+    spanish: 'La lengua',
+    english: 'The tongue',
+  },
+  {
+    id: 17,
+    img: 'https://img.freepik.com/vector-gratis/dientes-modelo-encia-sobre-fondo-blanco_1308-78590.jpg',
+    spanish: 'El diente / Los dientes',
+    english: 'The tooth / The teeth',
+  },
+  {
+    id: 18,
+    img: 'https://img.freepik.com/foto-gratis/primer-plano-labios-femeninos_144627-30211.jpg',
+    spanish: 'Los labios',
+    english: 'The lips',
+  },
+  {
+    id: 19,
+    img: 'https://img.freepik.com/foto-gratis/vista-posterior-peinar-cabello-sano-largo-liso-femenino-aislado-gris_231208-1619.jpg',
+    spanish: 'El pelo',
+    english: 'The hair',
+  },
+  {
+    id: 20,
+    img: 'https://img.freepik.com/vector-gratis/conjunto-emoticonos-contorno-negro-aislado-sobre-fondo-beige_53876-100921.jpg',
+    spanish: 'La cara',
+    english: 'The face',
+  },
+]
