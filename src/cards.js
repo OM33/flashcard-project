@@ -110,7 +110,7 @@ export const cards = [
   },
   {
     id: 20,
-    img: 'https://img.freepik.com/vector-gratis/conjunto-emoticonos-contorno-negro-aislado-sobre-fondo-beige_53876-100921.jpg',
+    img: 'https://img.freepik.com/vector-premium/dibujos-animados-cara-nino-lindo_18591-41511.jpg?w=740',
     spanish: 'La cara',
     english: 'The face',
   },

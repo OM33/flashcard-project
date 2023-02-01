@@ -9,7 +9,6 @@ const UseCard = ({ id, img, spanish, english }) => {
 
   const [text, setText] = useState(english)
   const clickHandler = () => {
-    console.log(text)
     if (text === english) {
       setText(spanish)
     } else {

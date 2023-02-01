@@ -45,6 +45,7 @@ body {
   background: #fff;
   border-radius: 1rem;
   padding: 1rem 2rem;
+  cursor: pointer;
 }
 
 .card h1 {
@@ -66,4 +67,9 @@ body {
   height: 8.5rem;
   width: 11 rem;
   margin-left: 4.5rem;
+}
+
+.card:active{
+  transform: scale(0.98);
+  box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
 }
